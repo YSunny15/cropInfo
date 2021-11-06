@@ -1,0 +1,23 @@
+[
+    {
+        "cropName" : "Rice",
+        "imgPath" : "assets/images/pic.png",
+        "desciption" : "this is description of crop 1"
+    },
+    {
+        "cropName" : "Rice",
+        "imgPath" : "assets/images/pic.png",
+        "desciption" : "this is description of crop 1"
+    },
+    {
+        "cropName" : "Rice",
+        "imgPath" : "assets/images/pic.png",
+        "desciption" : "this is description of crop 1"
+    },
+    {
+        "cropName" : "Rice",
+        "imgPath" : "assets/images/pic.png",
+        "desciption" : "this is description of crop 1"
+    }
+    
+]
